@@ -5,7 +5,7 @@
 <h3>Setup Instructions:</h3> provide 2 numbers num1 and num2 and select Arithmetic operator<br>
 <h3>Screenshots:</h3>
 
-![Screenshot 1]()
-![Screenshot 2]()
-![Screenshot 3]()<br>
+![Screenshot 1](https://github.com/Madhvi-27/Calculator/blob/main/screenshots/Screenshot%202025-02-10%201520481.png)
+![Screenshot 2](https://github.com/Madhvi-27/Calculator/blob/main/screenshots/Screenshot%202025-02-10%20152134.png)
+![Screenshot 3](https://github.com/Madhvi-27/Calculator/blob/main/screenshots/Screenshot%202025-02-10%20152208.png)<br>
 <h3>Author Information:</h3> Madhvi Pandey
